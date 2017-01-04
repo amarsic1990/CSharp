@@ -27,7 +27,7 @@ namespace NajveceVrijIndeksi
         {
             int maxVrij = intArray[0];
             indeksi = new int[1];
-            indeksi[0] = 1;
+            indeksi[0] = 0;
             brojNajVrij = 1;
 
             for (int i = 1; i < intArray.Length; i++)
