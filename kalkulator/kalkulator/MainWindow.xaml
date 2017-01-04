@@ -1,0 +1,28 @@
+﻿<Window x:Class="kalkulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kalkulator"
+        mc:Ignorable="d"
+        Title="Kalkulator" Height="400" Width="800" Background="#FFB1E6EC">
+    <Grid>
+        <Label x:Name="label" Content="Livi operand" HorizontalAlignment="Left" Margin="40,30,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Grid Margin="310,30,237,169">
+            <RadioButton x:Name="zbrajanje" Content="+ Zbrajanje" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="22"/>
+            <RadioButton x:Name="oduzimanje" Content="- Oduzimanje" HorizontalAlignment="Left" Margin="0,31,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <RadioButton x:Name="mnozenje" Content="* Mnozenje" HorizontalAlignment="Left" Margin="0,61,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <RadioButton x:Name="djeljenje" Content="/ Djeljenje" HorizontalAlignment="Left" Margin="0,91,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <RadioButton x:Name="ostatak" Content="% Ostakak djeljenja" HorizontalAlignment="Left" Margin="0,121,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+        </Grid>
+        <Label x:Name="label_Copy" Content="Desni operand" HorizontalAlignment="Left" Margin="560,30,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" RenderTransformOrigin="4.348,2.5"/>
+        <TextBox x:Name="LiviOp" HorizontalAlignment="Left" Height="23" Margin="40,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFAEA8EA"/>
+        <TextBox x:Name="DesniOp" HorizontalAlignment="Left" Height="23" Margin="560,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFAEA8EA"/>
+        <Button x:Name="Izrac" Content="IZRACUNAJ" HorizontalAlignment="Left" Margin="40,125,0,0" VerticalAlignment="Top" Width="105" Height="50" Opacity="0.995" FontSize="18" FontWeight="Bold" Background="#FF6B1A7E" Click="Izrac_Click"/>
+        <Label x:Name="label_Copy1" Content="Rezultat" HorizontalAlignment="Left" Margin="40,215,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBox x:Name="rezTextBox" HorizontalAlignment="Left" Height="25" Margin="170,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFDAD2D2"/>
+        <Button x:Name="button" Content="KRAJ" HorizontalAlignment="Left" Margin="585,280,0,0" VerticalAlignment="Top" Width="190" Height="65" Click="button_Click" Background="#FFE6E2C8" FontSize="36" FontWeight="Bold" FontFamily="Showcard Gothic"/>
+
+    </Grid>
+</Window>
