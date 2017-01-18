@@ -1,0 +1,14 @@
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csprojResolveAssemblyReference.cache
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\MainWindow.g.cs
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\App.g.cs
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija_MarkupCompile.cache
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija_MarkupCompile.lref
+F:\PROJECTS\Rekurzija\Rekurzija\bin\Debug\Rekurzija.exe.config
+F:\PROJECTS\Rekurzija\Rekurzija\bin\Debug\Rekurzija.exe
+F:\PROJECTS\Rekurzija\Rekurzija\bin\Debug\Rekurzija.pdb
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\MainWindow.baml
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija.g.resources
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija.Properties.Resources.resources
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.GenerateResource.Cache
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija.exe
+F:\PROJECTS\Rekurzija\Rekurzija\obj\Debug\Rekurzija.pdb
