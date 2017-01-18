@@ -1,0 +1,6 @@
+F:\PROJECTS\ConAppBrojSamogl\ConAppBrojSamogl\obj\Debug\ConAppBrojSamogl.csprojResolveAssemblyReference.cache
+F:\PROJECTS\ConAppBrojSamogl\ConAppBrojSamogl\bin\Debug\ConAppBrojSamogl.exe.config
+F:\PROJECTS\ConAppBrojSamogl\ConAppBrojSamogl\bin\Debug\ConAppBrojSamogl.exe
+F:\PROJECTS\ConAppBrojSamogl\ConAppBrojSamogl\bin\Debug\ConAppBrojSamogl.pdb
+F:\PROJECTS\ConAppBrojSamogl\ConAppBrojSamogl\obj\Debug\ConAppBrojSamogl.exe
+F:\PROJECTS\ConAppBrojSamogl\ConAppBrojSamogl\obj\Debug\ConAppBrojSamogl.pdb

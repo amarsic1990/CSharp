@@ -1,0 +1,6 @@
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\DebugWriteLine\DebugWriteLine\bin\Debug\DebugWriteLine.exe.config
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\DebugWriteLine\DebugWriteLine\bin\Debug\DebugWriteLine.exe
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\DebugWriteLine\DebugWriteLine\bin\Debug\DebugWriteLine.pdb
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\DebugWriteLine\DebugWriteLine\obj\Debug\DebugWriteLine.csprojResolveAssemblyReference.cache
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\DebugWriteLine\DebugWriteLine\obj\Debug\DebugWriteLine.exe
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\DebugWriteLine\DebugWriteLine\obj\Debug\DebugWriteLine.pdb

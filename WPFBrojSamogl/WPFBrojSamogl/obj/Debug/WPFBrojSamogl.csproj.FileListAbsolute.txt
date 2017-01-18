@@ -1,0 +1,14 @@
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\bin\Debug\WPFBrojSamogl.exe.config
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\bin\Debug\WPFBrojSamogl.exe
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\bin\Debug\WPFBrojSamogl.pdb
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl.csprojResolveAssemblyReference.cache
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\MainWindow.g.cs
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\App.g.cs
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl_MarkupCompile.cache
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl_MarkupCompile.lref
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\MainWindow.baml
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl.g.resources
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl.Properties.Resources.resources
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl.csproj.GenerateResource.Cache
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl.exe
+F:\PROJECTS\WPFBrojSamogl\WPFBrojSamogl\obj\Debug\WPFBrojSamogl.pdb
