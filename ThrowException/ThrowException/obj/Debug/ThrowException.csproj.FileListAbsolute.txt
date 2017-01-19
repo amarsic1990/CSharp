@@ -1,0 +1,6 @@
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\ThrowException\ThrowException\bin\Debug\ThrowException.exe.config
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\ThrowException\ThrowException\bin\Debug\ThrowException.exe
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\ThrowException\ThrowException\bin\Debug\ThrowException.pdb
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\ThrowException\ThrowException\obj\Debug\ThrowException.csprojResolveAssemblyReference.cache
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\ThrowException\ThrowException\obj\Debug\ThrowException.exe
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\ThrowException\ThrowException\obj\Debug\ThrowException.pdb
