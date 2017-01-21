@@ -49,6 +49,7 @@ namespace ThrowException
                 }
                 Console.WriteLine();
             }
+            Console.ReadKey();
         }
 
         static void ThrowException(int broj)

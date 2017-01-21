@@ -1,0 +1,7 @@
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\bin\Debug\netstandard1.4\KarteLibrary.deps.json
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\bin\Debug\netstandard1.4\KarteLibrary.dll
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\bin\Debug\netstandard1.4\KarteLibrary.pdb
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\obj\Debug\netstandard1.4\KarteLibrary.csprojResolveAssemblyReference.cache
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\obj\Debug\netstandard1.4\KarteLibrary.AssemblyInfo.cs
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\obj\Debug\netstandard1.4\KarteLibrary.dll
+F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibrary\KarteLibrary\obj\Debug\netstandard1.4\KarteLibrary.pdb

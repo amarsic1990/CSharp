@@ -24,6 +24,8 @@ namespace DnevnikOcjena
 
             Console.WriteLine($"prosjećna ocjena je: {statistika.prosjecnaOcjena} najmanja ocjena je: {statistika.najmanjaOcjena}, najveća ocjena je: {statistika.najvecaOcjena}");
 
+            Console.ReadKey();
+
         }
     }
 }

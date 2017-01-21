@@ -1,0 +1,6 @@
+F:\GITUPLOADS\CSharp\ConAppBrojSamogl\ConAppBrojSamogl\bin\Release\ConAppBrojSamogl.exe.config
+F:\GITUPLOADS\CSharp\ConAppBrojSamogl\ConAppBrojSamogl\bin\Release\ConAppBrojSamogl.exe
+F:\GITUPLOADS\CSharp\ConAppBrojSamogl\ConAppBrojSamogl\bin\Release\ConAppBrojSamogl.pdb
+F:\GITUPLOADS\CSharp\ConAppBrojSamogl\ConAppBrojSamogl\obj\Release\ConAppBrojSamogl.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\ConAppBrojSamogl\ConAppBrojSamogl\obj\Release\ConAppBrojSamogl.exe
+F:\GITUPLOADS\CSharp\ConAppBrojSamogl\ConAppBrojSamogl\obj\Release\ConAppBrojSamogl.pdb

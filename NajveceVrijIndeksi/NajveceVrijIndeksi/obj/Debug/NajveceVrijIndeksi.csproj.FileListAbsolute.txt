@@ -4,3 +4,9 @@ F:\PROJECTS\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Debug\NajveceVrijIndeksi.p
 F:\PROJECTS\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Debug\NajveceVrijIndeksi.csprojResolveAssemblyReference.cache
 F:\PROJECTS\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Debug\NajveceVrijIndeksi.exe
 F:\PROJECTS\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Debug\NajveceVrijIndeksi.pdb
+F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Debug\NajveceVrijIndeksi.exe.config
+F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Debug\NajveceVrijIndeksi.exe
+F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Debug\NajveceVrijIndeksi.pdb
+F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Debug\NajveceVrijIndeksi.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Debug\NajveceVrijIndeksi.exe
+F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Debug\NajveceVrijIndeksi.pdb

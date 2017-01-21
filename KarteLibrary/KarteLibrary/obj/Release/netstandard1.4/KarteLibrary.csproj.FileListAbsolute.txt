@@ -1,0 +1,7 @@
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\bin\Release\netstandard1.4\KarteLibrary.deps.json
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\bin\Release\netstandard1.4\KarteLibrary.dll
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\bin\Release\netstandard1.4\KarteLibrary.pdb
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\obj\Release\netstandard1.4\KarteLibrary.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\obj\Release\netstandard1.4\KarteLibrary.AssemblyInfo.cs
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\obj\Release\netstandard1.4\KarteLibrary.dll
+F:\GITUPLOADS\CSharp\KarteLibrary\KarteLibrary\obj\Release\netstandard1.4\KarteLibrary.pdb

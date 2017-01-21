@@ -1,0 +1,14 @@
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\bin\Release\kalkulator.exe.config
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\bin\Release\kalkulator.exe
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\bin\Release\kalkulator.pdb
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\MainWindow.g.cs
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\App.g.cs
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator_MarkupCompile.cache
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator_MarkupCompile.lref
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\MainWindow.baml
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator.g.resources
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator.Properties.Resources.resources
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator.csproj.GenerateResource.Cache
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator.exe
+F:\GITUPLOADS\CSharp\kalkulator\kalkulator\obj\Release\kalkulator.pdb

@@ -1,0 +1,14 @@
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\bin\Release\WPFBrojSamogl.exe.config
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\bin\Release\WPFBrojSamogl.exe
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\bin\Release\WPFBrojSamogl.pdb
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\MainWindow.g.cs
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\App.g.cs
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl_MarkupCompile.cache
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl_MarkupCompile.lref
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\MainWindow.baml
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl.g.resources
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl.Properties.Resources.resources
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl.csproj.GenerateResource.Cache
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl.exe
+F:\GITUPLOADS\CSharp\WPFBrojSamogl\WPFBrojSamogl\obj\Release\WPFBrojSamogl.pdb

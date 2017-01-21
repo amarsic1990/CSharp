@@ -25,6 +25,7 @@ namespace ConAppBrojSamogl
                 }
             }
             Console.WriteLine($"broj samoglasnika u rijeci: { brojSamoglasnika}");
+            Console.ReadKey();
         }
     }
 }

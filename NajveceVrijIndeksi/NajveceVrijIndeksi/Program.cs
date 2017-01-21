@@ -21,6 +21,7 @@ namespace NajveceVrijIndeksi
             {
                 Console.WriteLine(pozicija);
             }
+            Console.ReadKey();
         }
 
         static int MaxVrijIndeksi(int[] intArray, out int[] indeksi)

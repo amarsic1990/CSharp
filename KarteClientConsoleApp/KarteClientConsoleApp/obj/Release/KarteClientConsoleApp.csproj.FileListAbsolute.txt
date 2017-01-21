@@ -1,0 +1,8 @@
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\bin\Release\KarteClientConsoleApp.exe.config
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\bin\Release\KarteClientConsoleApp.exe
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\bin\Release\KarteClientConsoleApp.pdb
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\bin\Release\KarteLibrary.dll
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\bin\Release\KarteLibrary.pdb
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\obj\Release\KarteClientConsoleApp.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\obj\Release\KarteClientConsoleApp.exe
+F:\GITUPLOADS\CSharp\KarteClientConsoleApp\KarteClientConsoleApp\obj\Release\KarteClientConsoleApp.pdb

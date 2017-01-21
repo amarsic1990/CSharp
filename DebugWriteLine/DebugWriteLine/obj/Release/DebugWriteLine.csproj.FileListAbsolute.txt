@@ -1,0 +1,6 @@
+F:\GITUPLOADS\CSharp\DebugWriteLine\DebugWriteLine\bin\Release\DebugWriteLine.exe.config
+F:\GITUPLOADS\CSharp\DebugWriteLine\DebugWriteLine\bin\Release\DebugWriteLine.exe
+F:\GITUPLOADS\CSharp\DebugWriteLine\DebugWriteLine\bin\Release\DebugWriteLine.pdb
+F:\GITUPLOADS\CSharp\DebugWriteLine\DebugWriteLine\obj\Release\DebugWriteLine.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\DebugWriteLine\DebugWriteLine\obj\Release\DebugWriteLine.exe
+F:\GITUPLOADS\CSharp\DebugWriteLine\DebugWriteLine\obj\Release\DebugWriteLine.pdb

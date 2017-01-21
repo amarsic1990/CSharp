@@ -57,6 +57,7 @@ namespace DebugWriteLine
             {
                 Console.WriteLine(indeks);
             }
+            Console.ReadKey();
         }
     }
 }

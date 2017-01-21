@@ -15,3 +15,17 @@ F:\MOOC\EDX\MSDEV204xProgC#\VJEZBE\MODUL1\PrimTipPod\PrimTipPod\obj\Release\Prim
 F:\GITUPLOADS\C-Sharp\PrimTipPod\PrimTipPod\bin\Release\PrimTipPod.exe.config
 F:\GITUPLOADS\C-Sharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.exe
 F:\GITUPLOADS\C-Sharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.pdb
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\bin\Release\PrimTipPod.exe.config
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\bin\Release\PrimTipPod.exe
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\bin\Release\PrimTipPod.pdb
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\MainWindow.g.cs
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\App.g.cs
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod_MarkupCompile.cache
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod_MarkupCompile.lref
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\MainWindow.baml
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.g.resources
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.Properties.Resources.resources
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.csproj.GenerateResource.Cache
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.exe
+F:\GITUPLOADS\CSharp\PrimTipPod\PrimTipPod\obj\Release\PrimTipPod.pdb
