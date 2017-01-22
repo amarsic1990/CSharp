@@ -6,8 +6,8 @@ namespace KarteLibrary
 {
     public class Card
     {
-        private readonly Rank rank;
-        private readonly Suit suit;
+        public readonly Rank rank;
+        public readonly Suit suit;
 
         private Card() { }
 
