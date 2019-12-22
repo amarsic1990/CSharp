@@ -1,6 +1,0 @@
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\RacunskeOperacije\RacunskeOperacije\bin\Debug\RacunskeOperacije.exe.config
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\RacunskeOperacije\RacunskeOperacije\bin\Debug\RacunskeOperacije.exe
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\RacunskeOperacije\RacunskeOperacije\bin\Debug\RacunskeOperacije.pdb
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\RacunskeOperacije\RacunskeOperacije\obj\Debug\RacunskeOperacije.csprojResolveAssemblyReference.cache
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\RacunskeOperacije\RacunskeOperacije\obj\Debug\RacunskeOperacije.exe
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\RacunskeOperacije\RacunskeOperacije\obj\Debug\RacunskeOperacije.pdb

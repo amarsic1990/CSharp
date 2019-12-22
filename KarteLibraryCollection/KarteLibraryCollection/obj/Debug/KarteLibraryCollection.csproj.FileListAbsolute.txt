@@ -1,5 +1,0 @@
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibraryCollection\KarteLibraryCollection\bin\Debug\KarteLibraryCollection.dll
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibraryCollection\KarteLibraryCollection\bin\Debug\KarteLibraryCollection.pdb
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibraryCollection\KarteLibraryCollection\obj\Debug\KarteLibraryCollection.csprojResolveAssemblyReference.cache
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibraryCollection\KarteLibraryCollection\obj\Debug\KarteLibraryCollection.dll
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteLibraryCollection\KarteLibraryCollection\obj\Debug\KarteLibraryCollection.pdb

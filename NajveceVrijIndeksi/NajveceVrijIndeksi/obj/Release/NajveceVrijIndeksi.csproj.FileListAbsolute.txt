@@ -1,6 +1,0 @@
-F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Release\NajveceVrijIndeksi.exe.config
-F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Release\NajveceVrijIndeksi.exe
-F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\bin\Release\NajveceVrijIndeksi.pdb
-F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Release\NajveceVrijIndeksi.csprojResolveAssemblyReference.cache
-F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Release\NajveceVrijIndeksi.exe
-F:\GITUPLOADS\CSharp\NajveceVrijIndeksi\NajveceVrijIndeksi\obj\Release\NajveceVrijIndeksi.pdb

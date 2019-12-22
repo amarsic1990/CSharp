@@ -1,0 +1,12 @@
+F:\GITUPLOADS\CSharp\DnevnikOcjena\DnevnikOcjena\bin\Release\DnevnikOcjena.exe.config
+F:\GITUPLOADS\CSharp\DnevnikOcjena\DnevnikOcjena\bin\Release\DnevnikOcjena.exe
+F:\GITUPLOADS\CSharp\DnevnikOcjena\DnevnikOcjena\bin\Release\DnevnikOcjena.pdb
+F:\GITUPLOADS\CSharp\DnevnikOcjena\DnevnikOcjena\obj\Release\DnevnikOcjena.csprojResolveAssemblyReference.cache
+F:\GITUPLOADS\CSharp\DnevnikOcjena\DnevnikOcjena\obj\Release\DnevnikOcjena.exe
+F:\GITUPLOADS\CSharp\DnevnikOcjena\DnevnikOcjena\obj\Release\DnevnikOcjena.pdb
+C:\GitRepos\CSharp\DnevnikOcjena\DnevnikOcjena\bin\Release\DnevnikOcjena.exe.config
+C:\GitRepos\CSharp\DnevnikOcjena\DnevnikOcjena\bin\Release\DnevnikOcjena.exe
+C:\GitRepos\CSharp\DnevnikOcjena\DnevnikOcjena\bin\Release\DnevnikOcjena.pdb
+C:\GitRepos\CSharp\DnevnikOcjena\DnevnikOcjena\obj\Release\DnevnikOcjena.csprojAssemblyReference.cache
+C:\GitRepos\CSharp\DnevnikOcjena\DnevnikOcjena\obj\Release\DnevnikOcjena.exe
+C:\GitRepos\CSharp\DnevnikOcjena\DnevnikOcjena\obj\Release\DnevnikOcjena.pdb

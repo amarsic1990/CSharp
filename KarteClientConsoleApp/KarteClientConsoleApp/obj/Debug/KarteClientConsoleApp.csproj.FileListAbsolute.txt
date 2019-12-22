@@ -1,8 +1,0 @@
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\bin\Debug\KarteClientConsoleApp.exe.config
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\bin\Debug\KarteClientConsoleApp.exe
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\bin\Debug\KarteClientConsoleApp.pdb
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\bin\Debug\KarteLibrary.dll
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\bin\Debug\KarteLibrary.pdb
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\obj\Debug\KarteClientConsoleApp.csprojResolveAssemblyReference.cache
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\obj\Debug\KarteClientConsoleApp.exe
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\KarteClientConsoleApp\KarteClientConsoleApp\obj\Debug\KarteClientConsoleApp.pdb

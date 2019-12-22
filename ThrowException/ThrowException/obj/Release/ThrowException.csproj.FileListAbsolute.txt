@@ -1,6 +1,0 @@
-F:\GITUPLOADS\CSharp\ThrowException\ThrowException\bin\Release\ThrowException.exe.config
-F:\GITUPLOADS\CSharp\ThrowException\ThrowException\bin\Release\ThrowException.exe
-F:\GITUPLOADS\CSharp\ThrowException\ThrowException\bin\Release\ThrowException.pdb
-F:\GITUPLOADS\CSharp\ThrowException\ThrowException\obj\Release\ThrowException.csprojResolveAssemblyReference.cache
-F:\GITUPLOADS\CSharp\ThrowException\ThrowException\obj\Release\ThrowException.exe
-F:\GITUPLOADS\CSharp\ThrowException\ThrowException\obj\Release\ThrowException.pdb

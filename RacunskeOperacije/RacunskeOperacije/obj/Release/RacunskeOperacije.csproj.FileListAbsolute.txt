@@ -1,6 +1,0 @@
-F:\GITUPLOADS\CSharp\RacunskeOperacije\RacunskeOperacije\bin\Release\RacunskeOperacije.exe.config
-F:\GITUPLOADS\CSharp\RacunskeOperacije\RacunskeOperacije\bin\Release\RacunskeOperacije.exe
-F:\GITUPLOADS\CSharp\RacunskeOperacije\RacunskeOperacije\bin\Release\RacunskeOperacije.pdb
-F:\GITUPLOADS\CSharp\RacunskeOperacije\RacunskeOperacije\obj\Release\RacunskeOperacije.csprojResolveAssemblyReference.cache
-F:\GITUPLOADS\CSharp\RacunskeOperacije\RacunskeOperacije\obj\Release\RacunskeOperacije.exe
-F:\GITUPLOADS\CSharp\RacunskeOperacije\RacunskeOperacije\obj\Release\RacunskeOperacije.pdb

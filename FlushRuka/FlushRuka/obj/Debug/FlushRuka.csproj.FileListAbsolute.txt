@@ -1,8 +1,0 @@
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\bin\Debug\FlushRuka.exe.config
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\bin\Debug\FlushRuka.exe
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\bin\Debug\FlushRuka.pdb
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\bin\Debug\KarteLibrary.dll
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\bin\Debug\KarteLibrary.pdb
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\obj\Debug\FlushRuka.csprojResolveAssemblyReference.cache
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\obj\Debug\FlushRuka.exe
-F:\PROJECTS\BEGINNINGVSC#2015Prog\VJEZBE\FlushRuka\FlushRuka\obj\Debug\FlushRuka.pdb
