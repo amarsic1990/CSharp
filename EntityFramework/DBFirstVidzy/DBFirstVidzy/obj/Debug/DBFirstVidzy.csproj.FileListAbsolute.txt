@@ -1,0 +1,11 @@
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\DBFirstVidzy.exe.config
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\DBFirstVidzy.exe
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\DBFirstVidzy.pdb
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\EntityFramework.dll
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\EntityFramework.xml
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\obj\Debug\DBFirstVidzy.csprojAssemblyReference.cache
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\obj\Debug\DBFirstVidzy.csproj.CopyComplete
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\obj\Debug\DBFirstVidzy.exe
+C:\Users\amarsic\Desktop\PROGRAMI\EntityFramework\DBFirstVidzy\DBFirstVidzy\obj\Debug\DBFirstVidzy.pdb
